@@ -14,7 +14,7 @@ header {
     height:50px;
 }
 
-header .nav {
+header nav {
     display: flex;
     justify-content: flex-end;
    
